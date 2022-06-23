@@ -1,0 +1,11 @@
+:root {
+  --primary: #ebc908;
+  --primary-text: #ffffff;
+  --secondary: #422100;
+  --secondary-text: #ffffff;
+  --secondary-text-btn: #F5C314;
+  --accent: #422100;
+  --accent-text: #ffffff;
+  --accent-text-num: #F5C314;
+  --accent-font-family: impact;
+}
